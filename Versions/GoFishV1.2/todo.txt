@@ -1,0 +1,40 @@
+Pawn:
+    Worth: +100 //DONE
+    Doubled Pawns: -20
+    +Ranks from start * 10
+    Isolated Pawn: -25
+    Passed Pawn: +50
+
+Knight:
+    Worth: +300 //DONE
+    Centralised: +50 //DONE
+    On side of board: -30 //DONE
+
+Bishop:
+    Worth: +300 //DONE
+    2 Bishops: +50 //DONE
+
+Rook:
+    Worth: +500 //DONE
+    Connected Rooks: +30
+    Open file: +25
+
+Queen:
+    Worth: +900 //DONE
+
+King:
+    Worth: +100,000 //DONE
+    Early Game near side of board: +200
+    Near own troops: +10 per piece
+    Near opposite troops: -10 per piece
+    Pawn shield: +20 per pawn, max 3
+    
+
++-Controlled Squares * 5 //DONE
+
+Checkmating opposition: +1,000,000
+Getting Checkmated: -1,000,000
+Stalemate: return 0
+
+
+Is in check func

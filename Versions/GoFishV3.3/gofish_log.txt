@@ -1,0 +1,760 @@
+18:52:28 === NEW GAME ===
+18:52:33 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:33 --- GO move=1 is_white=false depth=4 king=4,0 ---
+18:52:33   row0: [-4 -2 -3 -5 -6 -3 -2 -4]
+18:52:33   row1: [-1 -1 -1 -1 -1 -1 -1 -1]
+18:52:33   row2: [0 0 0 0 0 0 0 0]
+18:52:33   row3: [0 0 0 0 0 0 0 0]
+18:52:33   row4: [0 0 0 0 1 0 0 0]
+18:52:33   row5: [0 0 0 0 0 0 0 0]
+18:52:33   row6: [1 1 1 1 0 1 1 1]
+18:52:33   row7: [4 2 3 5 6 3 2 4]
+18:52:33 bestmove a7a5 internal=[0 1 0 3]
+18:52:37 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:37 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:52:37 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:52:37 --- GO move=3 is_white=false depth=4 king=4,0 ---
+18:52:37   row0: [-4 -2 -3 -5 -6 -3 -2 -4]
+18:52:37   row1: [0 -1 -1 -1 -1 -1 -1 -1]
+18:52:37   row2: [0 0 0 0 0 0 0 0]
+18:52:37   row3: [-1 0 0 0 0 0 0 0]
+18:52:37   row4: [0 0 0 1 1 0 0 0]
+18:52:37   row5: [0 0 0 0 0 0 0 0]
+18:52:37   row6: [1 1 1 0 0 1 1 1]
+18:52:37   row7: [4 2 3 5 6 3 2 4]
+18:52:37 bestmove b7b6 internal=[1 1 1 2]
+18:52:39 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:39 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:52:39 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:52:39 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:52:39 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:52:39 --- GO move=5 is_white=false depth=4 king=4,0 ---
+18:52:39   row0: [-4 -2 -3 -5 -6 -3 -2 -4]
+18:52:39   row1: [0 0 -1 -1 -1 -1 -1 -1]
+18:52:39   row2: [0 -1 0 0 0 0 0 0]
+18:52:39   row3: [-1 0 0 0 1 0 0 0]
+18:52:39   row4: [0 0 0 1 0 0 0 0]
+18:52:39   row5: [0 0 0 0 0 0 0 0]
+18:52:39   row6: [1 1 1 0 0 1 1 1]
+18:52:39   row7: [4 2 3 5 6 3 2 4]
+18:52:39 bestmove c7c5 internal=[2 1 2 3]
+18:52:42 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:42 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:52:42 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:52:42 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:52:42 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:52:42 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:52:42 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:52:42 --- GO move=7 is_white=false depth=4 king=4,0 ---
+18:52:42   row0: [-4 -2 -3 -5 -6 -3 -2 -4]
+18:52:42   row1: [0 0 0 -1 -1 -1 -1 -1]
+18:52:42   row2: [0 -1 0 0 0 0 0 0]
+18:52:42   row3: [-1 0 1 0 1 0 0 0]
+18:52:42   row4: [0 0 0 0 0 0 0 0]
+18:52:42   row5: [0 0 0 0 0 0 0 0]
+18:52:42   row6: [1 1 1 0 0 1 1 1]
+18:52:42   row7: [4 2 3 5 6 3 2 4]
+18:52:43 bestmove b6c5 internal=[1 2 2 3]
+18:52:46 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:46 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:52:46 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:52:46 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:52:46 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:52:46 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:52:46 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:52:46 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:52:46 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:52:46 --- GO move=9 is_white=false depth=4 king=4,0 ---
+18:52:46   row0: [-4 -2 -3 -5 -6 -3 -2 -4]
+18:52:46   row1: [0 0 0 -1 -1 -1 -1 -1]
+18:52:46   row2: [0 0 0 0 0 0 0 0]
+18:52:46   row3: [-1 0 -1 0 1 0 0 0]
+18:52:46   row4: [0 0 0 0 0 0 0 0]
+18:52:46   row5: [0 0 2 0 0 0 0 0]
+18:52:46   row6: [1 1 1 0 0 1 1 1]
+18:52:46   row7: [4 0 3 5 6 3 2 4]
+18:52:47 bestmove c8b7 internal=[2 0 1 1]
+18:52:50 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:50 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:52:50 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:52:50 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:52:50 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:52:50 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:52:50 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:52:50 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:52:50 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:52:50 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:52:50 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:52:50 --- GO move=11 is_white=false depth=4 king=4,0 ---
+18:52:50   row0: [-4 -2 0 -5 -6 -3 -2 -4]
+18:52:50   row1: [0 -3 0 -1 -1 -1 -1 -1]
+18:52:50   row2: [0 0 0 0 0 0 0 0]
+18:52:50   row3: [-1 0 -1 0 1 0 0 0]
+18:52:50   row4: [0 0 0 0 0 0 0 0]
+18:52:50   row5: [0 0 2 0 0 2 0 0]
+18:52:50   row6: [1 1 1 0 0 1 1 1]
+18:52:50   row7: [4 0 3 5 6 3 0 4]
+18:52:50 bestmove f7f6 internal=[5 1 5 2]
+18:52:53 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:53 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:52:53 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:52:53 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:52:53 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:52:53 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:52:53 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:52:53 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:52:53 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:52:53 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:52:53 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:52:53 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:52:53 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:52:53 --- GO move=13 is_white=false depth=4 king=4,0 ---
+18:52:53   row0: [-4 -2 0 -5 -6 -3 -2 -4]
+18:52:53   row1: [0 -3 0 -1 -1 0 -1 -1]
+18:52:53   row2: [0 0 0 0 0 1 0 0]
+18:52:53   row3: [-1 0 -1 0 0 0 0 0]
+18:52:53   row4: [0 0 0 0 0 0 0 0]
+18:52:53   row5: [0 0 2 0 0 2 0 0]
+18:52:53   row6: [1 1 1 0 0 1 1 1]
+18:52:53   row7: [4 0 3 5 6 3 0 4]
+18:52:53 bestmove g7f6 internal=[6 1 5 2]
+18:52:55 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:55 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:52:55 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:52:55 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:52:55 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:52:55 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:52:55 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:52:55 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:52:55 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:52:55 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:52:55 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:52:55 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:52:55 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:52:55 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:52:55 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:52:55 --- GO move=15 is_white=false depth=4 king=4,0 ---
+18:52:55   row0: [-4 -2 0 -5 -6 -3 -2 -4]
+18:52:55   row1: [0 -3 0 -1 -1 0 0 -1]
+18:52:55   row2: [0 0 0 0 0 -1 0 0]
+18:52:55   row3: [-1 0 -1 0 0 0 0 0]
+18:52:55   row4: [0 0 0 0 0 0 0 0]
+18:52:55   row5: [0 0 2 0 3 2 0 0]
+18:52:55   row6: [1 1 1 0 0 1 1 1]
+18:52:55   row7: [4 0 0 5 6 3 0 4]
+18:52:55 bestmove e7e5 internal=[4 1 4 3]
+18:52:56 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:52:56 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:52:56 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:52:56 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:52:56 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:52:56 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:52:56 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:52:56 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:52:56 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:52:56 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:52:56 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:52:56 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:52:56 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:52:56 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:52:56 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:52:56 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:52:56 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:52:56 --- GO move=17 is_white=false depth=4 king=4,0 ---
+18:52:56   row0: [-4 -2 0 -5 -6 -3 -2 -4]
+18:52:56   row1: [0 -3 0 -1 0 0 0 -1]
+18:52:56   row2: [0 0 0 0 0 -1 0 0]
+18:52:56   row3: [-1 0 -1 0 -1 0 0 0]
+18:52:56   row4: [0 0 0 0 0 0 0 0]
+18:52:56   row5: [0 0 2 0 3 2 0 0]
+18:52:56   row6: [1 1 1 0 3 1 1 1]
+18:52:56   row7: [4 0 0 5 6 0 0 4]
+18:52:57 bestmove h7h5 internal=[7 1 7 3]
+18:53:04 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:04 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:04 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:04 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:04 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:04 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:04 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:04 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:04 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:04 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:04 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:04 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:04 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:04 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:04 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:04 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:04 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:04 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:04 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:04 --- GO move=19 is_white=false depth=4 king=4,0 ---
+18:53:04   row0: [-4 -2 0 -5 -6 -3 -2 -4]
+18:53:04   row1: [0 -3 0 -1 0 0 0 0]
+18:53:04   row2: [0 0 0 0 0 -1 0 0]
+18:53:04   row3: [-1 0 -1 0 -1 0 0 -1]
+18:53:04   row4: [0 0 0 0 0 0 0 0]
+18:53:04   row5: [0 0 2 0 3 2 0 0]
+18:53:04   row6: [1 1 1 0 3 1 1 1]
+18:53:04   row7: [4 0 0 5 0 4 6 0]
+18:53:05 bestmove a5a4 internal=[0 3 0 4]
+18:53:08 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:08 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:08 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:08 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:08 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:08 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:08 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:08 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:08 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:08 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:08 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:08 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:08 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:08 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:08 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:08 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:08 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:08 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:08 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:08 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:08 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:08 --- GO move=21 is_white=false depth=4 king=4,0 ---
+18:53:08   row0: [-4 -2 0 -5 -6 -3 -2 -4]
+18:53:08   row1: [0 -3 0 -1 0 0 0 0]
+18:53:08   row2: [0 0 0 0 0 -1 0 0]
+18:53:08   row3: [0 0 -1 0 -1 0 0 -1]
+18:53:08   row4: [-1 0 0 0 0 0 0 0]
+18:53:08   row5: [0 1 2 0 3 2 0 0]
+18:53:08   row6: [1 0 1 0 3 1 1 1]
+18:53:08   row7: [4 0 0 5 0 4 6 0]
+18:53:08 bestmove e5e4 internal=[4 3 4 4]
+18:53:11 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:11 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:11 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:11 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:11 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:11 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:11 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:11 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:11 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:11 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:11 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:11 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:11 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:11 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:11 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:11 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:11 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:11 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:11 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:11 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:11 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:11 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:11 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:11 --- GO move=23 is_white=false depth=4 king=4,0 ---
+18:53:11   row0: [-4 -2 0 -5 -6 -3 -2 -4]
+18:53:11   row1: [0 -3 0 -1 0 0 0 0]
+18:53:11   row2: [0 0 0 0 0 -1 0 0]
+18:53:11   row3: [0 0 -1 0 0 0 0 -1]
+18:53:11   row4: [-1 0 0 0 -1 0 0 0]
+18:53:11   row5: [0 1 2 0 3 0 0 0]
+18:53:11   row6: [1 0 1 2 3 1 1 1]
+18:53:11   row7: [4 0 0 5 0 4 6 0]
+18:53:12 bestmove a4b3 internal=[0 4 1 5]
+18:53:14 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:14 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:14 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:14 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:14 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:14 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:14 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:14 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:14 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:14 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:14 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:14 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:14 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:14 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:14 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:14 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:14 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:14 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:14 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:14 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:14 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:14 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:14 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:14 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:14 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:14 --- GO move=25 is_white=false depth=4 king=4,0 ---
+18:53:14   row0: [-4 -2 0 -5 -6 -3 -2 -4]
+18:53:14   row1: [0 -3 0 -1 0 0 0 0]
+18:53:14   row2: [0 0 0 0 0 -1 0 0]
+18:53:14   row3: [0 0 -1 0 0 0 0 -1]
+18:53:14   row4: [0 0 0 0 -1 0 0 0]
+18:53:14   row5: [0 1 2 0 3 0 0 0]
+18:53:14   row6: [0 0 1 2 3 1 1 1]
+18:53:14   row7: [4 0 0 5 0 4 6 0]
+18:53:14 bestmove a8a1 internal=[0 0 0 7]
+18:53:16 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:16 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:16 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:16 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:16 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:16 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:16 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:16 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:16 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:16 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:16 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:16 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:16 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:16 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:16 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:16 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:16 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:16 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:16 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:16 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:16 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:16 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:16 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:16 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:16 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:16 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:16 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:16 --- GO move=27 is_white=false depth=4 king=4,0 ---
+18:53:16   row0: [0 -2 0 -5 -6 -3 -2 -4]
+18:53:16   row1: [0 -3 0 -1 0 0 0 0]
+18:53:16   row2: [0 0 0 0 0 -1 0 0]
+18:53:16   row3: [0 0 -1 0 0 0 0 -1]
+18:53:16   row4: [0 0 0 0 -1 0 0 0]
+18:53:16   row5: [0 1 2 0 3 0 0 0]
+18:53:16   row6: [0 0 1 2 3 1 1 1]
+18:53:16   row7: [5 0 0 0 0 4 6 0]
+18:53:16 bestmove d8b6 internal=[3 0 1 2]
+18:53:21 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:21 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:21 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:21 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:21 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:21 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:21 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:21 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:21 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:21 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:21 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:21 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:21 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:21 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:21 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:21 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:21 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:21 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:21 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:21 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:21 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:21 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:21 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:21 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:21 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:21 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:21 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:21 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:21 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:21 --- GO move=29 is_white=false depth=4 king=4,0 ---
+18:53:21   row0: [0 -2 0 0 -6 -3 -2 -4]
+18:53:21   row1: [0 -3 0 -1 0 0 0 0]
+18:53:21   row2: [0 -5 0 0 0 -1 0 0]
+18:53:21   row3: [0 0 -1 0 0 0 0 -1]
+18:53:21   row4: [0 0 0 0 -1 0 0 0]
+18:53:21   row5: [0 1 2 0 3 1 0 0]
+18:53:21   row6: [0 0 1 2 3 0 1 1]
+18:53:21   row7: [5 0 0 0 0 4 6 0]
+18:53:22 bestmove e4f3 internal=[4 4 5 5]
+18:53:24 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:24 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:24 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:24 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:24 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:24 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:24 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:24 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:24 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:24 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:24 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:24 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:24 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:24 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:24 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:24 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:24 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:24 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:24 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:24 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:24 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:24 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:24 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:24 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:24 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:24 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:24 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:24 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:24 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:24 Applying move e4f3 -> internal [4 4 5 5] is_white=false
+18:53:24 Applying move e2f3 -> internal [4 6 5 5] is_white=true
+18:53:24 --- GO move=31 is_white=false depth=4 king=4,0 ---
+18:53:24   row0: [0 -2 0 0 -6 -3 -2 -4]
+18:53:24   row1: [0 -3 0 -1 0 0 0 0]
+18:53:24   row2: [0 -5 0 0 0 -1 0 0]
+18:53:24   row3: [0 0 -1 0 0 0 0 -1]
+18:53:24   row4: [0 0 0 0 0 0 0 0]
+18:53:24   row5: [0 1 2 0 3 3 0 0]
+18:53:24   row6: [0 0 1 2 0 0 1 1]
+18:53:24   row7: [5 0 0 0 0 4 6 0]
+18:53:25 bestmove b6e6 internal=[1 2 4 2]
+18:53:35 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:35 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:35 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:35 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:35 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:35 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:35 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:35 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:35 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:35 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:35 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:35 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:35 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:35 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:35 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:35 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:35 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:35 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:35 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:35 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:35 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:35 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:35 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:35 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:35 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:35 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:35 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:35 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:35 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:35 Applying move e4f3 -> internal [4 4 5 5] is_white=false
+18:53:35 Applying move e2f3 -> internal [4 6 5 5] is_white=true
+18:53:35 Applying move b6e6 -> internal [1 2 4 2] is_white=false
+18:53:35 Applying move e3f2 -> internal [4 5 5 6] is_white=true
+18:53:35 --- GO move=33 is_white=false depth=4 king=4,0 ---
+18:53:35   row0: [0 -2 0 0 -6 -3 -2 -4]
+18:53:35   row1: [0 -3 0 -1 0 0 0 0]
+18:53:35   row2: [0 0 0 0 -5 -1 0 0]
+18:53:35   row3: [0 0 -1 0 0 0 0 -1]
+18:53:35   row4: [0 0 0 0 0 0 0 0]
+18:53:35   row5: [0 1 2 0 0 3 0 0]
+18:53:35   row6: [0 0 1 2 0 3 1 1]
+18:53:35   row7: [5 0 0 0 0 4 6 0]
+18:53:36 bestmove b7f3 internal=[1 1 5 5]
+18:53:37 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:37 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:37 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:37 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:37 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:37 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:37 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:37 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:37 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:37 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:37 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:37 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:37 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:37 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:37 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:37 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:37 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:37 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:37 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:37 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:37 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:37 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:37 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:37 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:37 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:37 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:37 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:37 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:37 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:37 Applying move e4f3 -> internal [4 4 5 5] is_white=false
+18:53:37 Applying move e2f3 -> internal [4 6 5 5] is_white=true
+18:53:37 Applying move b6e6 -> internal [1 2 4 2] is_white=false
+18:53:37 Applying move e3f2 -> internal [4 5 5 6] is_white=true
+18:53:37 Applying move b7f3 -> internal [1 1 5 5] is_white=false
+18:53:37 Applying move g2f3 -> internal [6 6 5 5] is_white=true
+18:53:37 --- GO move=35 is_white=false depth=4 king=4,0 ---
+18:53:37   row0: [0 -2 0 0 -6 -3 -2 -4]
+18:53:37   row1: [0 0 0 -1 0 0 0 0]
+18:53:37   row2: [0 0 0 0 -5 -1 0 0]
+18:53:37   row3: [0 0 -1 0 0 0 0 -1]
+18:53:37   row4: [0 0 0 0 0 0 0 0]
+18:53:37   row5: [0 1 2 0 0 1 0 0]
+18:53:37   row6: [0 0 1 2 0 3 0 1]
+18:53:37   row7: [5 0 0 0 0 4 6 0]
+18:53:38 bestmove h8h7 internal=[7 0 7 1]
+18:53:41 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:41 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:41 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:41 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:41 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:41 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:41 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:41 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:41 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:41 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:41 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:41 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:41 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:41 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:41 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:41 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:41 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:41 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:41 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:41 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:41 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:41 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:41 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:41 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:41 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:41 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:41 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:41 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:41 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:41 Applying move e4f3 -> internal [4 4 5 5] is_white=false
+18:53:41 Applying move e2f3 -> internal [4 6 5 5] is_white=true
+18:53:41 Applying move b6e6 -> internal [1 2 4 2] is_white=false
+18:53:41 Applying move e3f2 -> internal [4 5 5 6] is_white=true
+18:53:41 Applying move b7f3 -> internal [1 1 5 5] is_white=false
+18:53:41 Applying move g2f3 -> internal [6 6 5 5] is_white=true
+18:53:41 Applying move h8h7 -> internal [7 0 7 1] is_white=false
+18:53:41 Applying move f1e1 -> internal [5 7 4 7] is_white=true
+18:53:41 --- GO move=37 is_white=false depth=4 king=4,0 ---
+18:53:41   row0: [0 -2 0 0 -6 -3 -2 0]
+18:53:41   row1: [0 0 0 -1 0 0 0 -4]
+18:53:41   row2: [0 0 0 0 -5 -1 0 0]
+18:53:41   row3: [0 0 -1 0 0 0 0 -1]
+18:53:41   row4: [0 0 0 0 0 0 0 0]
+18:53:41   row5: [0 1 2 0 0 1 0 0]
+18:53:41   row6: [0 0 1 2 0 3 0 1]
+18:53:41   row7: [5 0 0 0 4 0 6 0]
+18:53:42 bestmove h7g7 internal=[7 1 6 1]
+18:53:45 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:45 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:45 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:45 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:45 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:45 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:45 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:45 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:45 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:45 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:45 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:45 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:45 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:45 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:45 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:45 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:45 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:45 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:45 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:45 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:45 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:45 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:45 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:45 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:45 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:45 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:45 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:45 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:45 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:45 Applying move e4f3 -> internal [4 4 5 5] is_white=false
+18:53:45 Applying move e2f3 -> internal [4 6 5 5] is_white=true
+18:53:45 Applying move b6e6 -> internal [1 2 4 2] is_white=false
+18:53:45 Applying move e3f2 -> internal [4 5 5 6] is_white=true
+18:53:45 Applying move b7f3 -> internal [1 1 5 5] is_white=false
+18:53:45 Applying move g2f3 -> internal [6 6 5 5] is_white=true
+18:53:45 Applying move h8h7 -> internal [7 0 7 1] is_white=false
+18:53:45 Applying move f1e1 -> internal [5 7 4 7] is_white=true
+18:53:45 Applying move h7g7 -> internal [7 1 6 1] is_white=false
+18:53:45 Applying move g1h1 -> internal [6 7 7 7] is_white=true
+18:53:45 --- GO move=39 is_white=false depth=4 king=4,0 ---
+18:53:45   row0: [0 -2 0 0 -6 -3 -2 0]
+18:53:45   row1: [0 0 0 -1 0 0 -4 0]
+18:53:45   row2: [0 0 0 0 -5 -1 0 0]
+18:53:45   row3: [0 0 -1 0 0 0 0 -1]
+18:53:45   row4: [0 0 0 0 0 0 0 0]
+18:53:45   row5: [0 1 2 0 0 1 0 0]
+18:53:45   row6: [0 0 1 2 0 3 0 1]
+18:53:45   row7: [5 0 0 0 4 0 0 6]
+18:53:45 bestmove f8e7 internal=[5 0 4 1]
+18:53:47 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:47 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:47 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:47 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:47 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:47 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:47 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:47 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:47 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:47 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:47 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:47 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:47 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:47 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:47 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:47 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:47 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:47 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:47 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:47 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:47 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:47 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:47 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:47 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:47 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:47 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:47 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:47 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:47 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:47 Applying move e4f3 -> internal [4 4 5 5] is_white=false
+18:53:47 Applying move e2f3 -> internal [4 6 5 5] is_white=true
+18:53:47 Applying move b6e6 -> internal [1 2 4 2] is_white=false
+18:53:47 Applying move e3f2 -> internal [4 5 5 6] is_white=true
+18:53:47 Applying move b7f3 -> internal [1 1 5 5] is_white=false
+18:53:47 Applying move g2f3 -> internal [6 6 5 5] is_white=true
+18:53:47 Applying move h8h7 -> internal [7 0 7 1] is_white=false
+18:53:47 Applying move f1e1 -> internal [5 7 4 7] is_white=true
+18:53:47 Applying move h7g7 -> internal [7 1 6 1] is_white=false
+18:53:47 Applying move g1h1 -> internal [6 7 7 7] is_white=true
+18:53:47 Applying move f8e7 -> internal [5 0 4 1] is_white=false
+18:53:47 Applying move e1e6 -> internal [4 7 4 2] is_white=true
+18:53:47 --- GO move=41 is_white=false depth=4 king=4,0 ---
+18:53:47   row0: [0 -2 0 0 -6 0 -2 0]
+18:53:47   row1: [0 0 0 -1 -3 0 -4 0]
+18:53:47   row2: [0 0 0 0 4 -1 0 0]
+18:53:47   row3: [0 0 -1 0 0 0 0 -1]
+18:53:47   row4: [0 0 0 0 0 0 0 0]
+18:53:47   row5: [0 1 2 0 0 1 0 0]
+18:53:47   row6: [0 0 1 2 0 3 0 1]
+18:53:47   row7: [5 0 0 0 0 0 0 6]
+18:53:47 bestmove d7e6 internal=[3 1 4 2]
+18:53:50 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:50 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:50 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:50 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:50 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:50 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:50 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:50 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:50 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:50 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:50 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:50 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:50 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:50 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:50 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:50 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:50 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:50 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:50 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:50 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:50 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:50 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:50 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:50 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:50 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:50 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:50 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:50 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:50 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:50 Applying move e4f3 -> internal [4 4 5 5] is_white=false
+18:53:50 Applying move e2f3 -> internal [4 6 5 5] is_white=true
+18:53:50 Applying move b6e6 -> internal [1 2 4 2] is_white=false
+18:53:50 Applying move e3f2 -> internal [4 5 5 6] is_white=true
+18:53:50 Applying move b7f3 -> internal [1 1 5 5] is_white=false
+18:53:50 Applying move g2f3 -> internal [6 6 5 5] is_white=true
+18:53:50 Applying move h8h7 -> internal [7 0 7 1] is_white=false
+18:53:50 Applying move f1e1 -> internal [5 7 4 7] is_white=true
+18:53:50 Applying move h7g7 -> internal [7 1 6 1] is_white=false
+18:53:50 Applying move g1h1 -> internal [6 7 7 7] is_white=true
+18:53:50 Applying move f8e7 -> internal [5 0 4 1] is_white=false
+18:53:50 Applying move e1e6 -> internal [4 7 4 2] is_white=true
+18:53:50 Applying move d7e6 -> internal [3 1 4 2] is_white=false
+18:53:50 Applying move a1a8 -> internal [0 7 0 0] is_white=true
+18:53:50 --- GO move=43 is_white=false depth=4 king=4,0 ---
+18:53:50   row0: [5 -2 0 0 -6 0 -2 0]
+18:53:50   row1: [0 0 0 0 -3 0 -4 0]
+18:53:50   row2: [0 0 0 0 -1 -1 0 0]
+18:53:50   row3: [0 0 -1 0 0 0 0 -1]
+18:53:50   row4: [0 0 0 0 0 0 0 0]
+18:53:50   row5: [0 1 2 0 0 1 0 0]
+18:53:50   row6: [0 0 1 2 0 3 0 1]
+18:53:50   row7: [0 0 0 0 0 0 0 6]
+18:53:50 bestmove e7f8 internal=[4 1 5 0]
+18:53:52 Applying move e2e4 -> internal [4 6 4 4] is_white=true
+18:53:52 Applying move a7a5 -> internal [0 1 0 3] is_white=false
+18:53:52 Applying move d2d4 -> internal [3 6 3 4] is_white=true
+18:53:52 Applying move b7b6 -> internal [1 1 1 2] is_white=false
+18:53:52 Applying move e4e5 -> internal [4 4 4 3] is_white=true
+18:53:52 Applying move c7c5 -> internal [2 1 2 3] is_white=false
+18:53:52 Applying move d4c5 -> internal [3 4 2 3] is_white=true
+18:53:52 Applying move b6c5 -> internal [1 2 2 3] is_white=false
+18:53:52 Applying move b1c3 -> internal [1 7 2 5] is_white=true
+18:53:52 Applying move c8b7 -> internal [2 0 1 1] is_white=false
+18:53:52 Applying move g1f3 -> internal [6 7 5 5] is_white=true
+18:53:52 Applying move f7f6 -> internal [5 1 5 2] is_white=false
+18:53:52 Applying move e5f6 -> internal [4 3 5 2] is_white=true
+18:53:52 Applying move g7f6 -> internal [6 1 5 2] is_white=false
+18:53:52 Applying move c1e3 -> internal [2 7 4 5] is_white=true
+18:53:52 Applying move e7e5 -> internal [4 1 4 3] is_white=false
+18:53:52 Applying move f1e2 -> internal [5 7 4 6] is_white=true
+18:53:52 Applying move h7h5 -> internal [7 1 7 3] is_white=false
+18:53:52 Applying move e1g1 -> internal [11 0 0 0] is_white=true
+18:53:52 Applying move a5a4 -> internal [0 3 0 4] is_white=false
+18:53:52 Applying move b2b3 -> internal [1 6 1 5] is_white=true
+18:53:52 Applying move e5e4 -> internal [4 3 4 4] is_white=false
+18:53:52 Applying move f3d2 -> internal [5 5 3 6] is_white=true
+18:53:52 Applying move a4b3 -> internal [0 4 1 5] is_white=false
+18:53:52 Applying move a2b3 -> internal [0 6 1 5] is_white=true
+18:53:52 Applying move a8a1 -> internal [0 0 0 7] is_white=false
+18:53:52 Applying move d1a1 -> internal [3 7 0 7] is_white=true
+18:53:52 Applying move d8b6 -> internal [3 0 1 2] is_white=false
+18:53:52 Applying move f2f3 -> internal [5 6 5 5] is_white=true
+18:53:52 Applying move e4f3 -> internal [4 4 5 5] is_white=false
+18:53:52 Applying move e2f3 -> internal [4 6 5 5] is_white=true
+18:53:52 Applying move b6e6 -> internal [1 2 4 2] is_white=false
+18:53:52 Applying move e3f2 -> internal [4 5 5 6] is_white=true
+18:53:52 Applying move b7f3 -> internal [1 1 5 5] is_white=false
+18:53:52 Applying move g2f3 -> internal [6 6 5 5] is_white=true
+18:53:52 Applying move h8h7 -> internal [7 0 7 1] is_white=false
+18:53:52 Applying move f1e1 -> internal [5 7 4 7] is_white=true
+18:53:52 Applying move h7g7 -> internal [7 1 6 1] is_white=false
+18:53:52 Applying move g1h1 -> internal [6 7 7 7] is_white=true
+18:53:52 Applying move f8e7 -> internal [5 0 4 1] is_white=false
+18:53:52 Applying move e1e6 -> internal [4 7 4 2] is_white=true
+18:53:52 Applying move d7e6 -> internal [3 1 4 2] is_white=false
+18:53:52 Applying move a1a8 -> internal [0 7 0 0] is_white=true
+18:53:52 Applying move e7f8 -> internal [4 1 5 0] is_white=false
+18:53:52 Applying move a8b8 -> internal [0 0 1 0] is_white=true
+18:53:52 --- GO move=45 is_white=false depth=4 king=4,0 ---
+18:53:52   row0: [0 5 0 0 -6 -3 -2 0]
+18:53:52   row1: [0 0 0 0 0 0 -4 0]
+18:53:52   row2: [0 0 0 0 -1 -1 0 0]
+18:53:52   row3: [0 0 -1 0 0 0 0 -1]
+18:53:52   row4: [0 0 0 0 0 0 0 0]
+18:53:52   row5: [0 1 2 0 0 1 0 0]
+18:53:52   row6: [0 0 1 2 0 3 0 1]
+18:53:52   row7: [0 0 0 0 0 0 0 6]
+18:53:52 NULL MOVE legal_count=0 king=4,0 in_check=true
